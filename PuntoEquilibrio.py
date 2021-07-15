@@ -8,3 +8,5 @@ resultado = Cf + Cv + Pv
 
 print("El resultado es:")
 print(resultado)
+
+print("Gracias!!")
