@@ -6,7 +6,7 @@ Pv = float(input("Ingrese el costo variable (Pv): "))
 
 resultado = Cf + Cv + Pv
 
-print("El resultado es:")
+print("El resultado es: ")
 print(resultado)
 
 print("Gracias!!")
